@@ -43,6 +43,3 @@ Clicando no link abaixo, você irá o dashboard, que foi publicado na internet a
 
 Este projeto está licenciado sob a [Licença MIT](https://opensource.org/licenses/MIT). Consulte o arquivo `LICENSE` para obter mais informações sobre os termos de licenciamento.
 
----
-
-✨ Feito com carinho por [Andrieli Gonçalves](https://github.com/strawndri).
